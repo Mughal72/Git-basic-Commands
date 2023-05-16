@@ -1,4 +1,4 @@
-# Bootstrap-Crasouel
+# Git Demo
 This is demo tutorial on git
 How to push yourr file on github using git ?
 here are some steps you have to follow 
